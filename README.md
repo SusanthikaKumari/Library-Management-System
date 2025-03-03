@@ -25,6 +25,8 @@ The Library Management System is a Java-based application that helps manage libr
    ```bash
    git clone https://github.com/SusanthikaKumari/Library-Management-System.git
 Open the project in your preferred IDE (NetBeans, IntelliJ IDEA, etc.).
-2. Set up the Database.
+
+2. Open the project in your IDE (NetBeans).
+3. Set up the Database.
 4. Run the project.
 
