@@ -15,10 +15,10 @@ The Library Management System is a Java-based application that helps manage libr
 - **Version Control**: GitHub
   
 ## How to Run:
-Clone the repository to your local machine.
-Set up XAMPP and create the required database.
-Configure the db_config file in the project to match your local database credentials.
-Build and run the project using your preferred Java IDE.
+- Clone the repository to your local machine.
+- Set up XAMPP and create the required database.
+- Configure the db_config file in the project to match your local database credentials.
+- Build and run the project using your preferred Java IDE.
 
 ## Installation Instructions
 1. **Clone the Repository**:
